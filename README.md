@@ -5,17 +5,17 @@ Machine Learning from Scratch
 #### -- Project Status: [Work in progresss]
 
 ## Project Intro/Objective
-The purpose of this project is ________. 
+The purpose of this project is to build many (if not all) of machine learning tools from scratch. Many of the codes will take inspiration from textbooks (primarily Joel Grus' and Chollet's)  as well as scipy, numpy, pandas and scikit-learn. There will be two main sections: the first will focus on non-neural-network machine learning while the second will be on neural-network ( (and further on deep-learning). I would like this project to serve as introduction and detailed analysis of inside-the-box implementations of many of the packages in machine learning. 
 
 ### Methods Used
-* Machine Learning
-* Data Visualization
-* Predictive Modeling
+* Data scrapping, data cleaning and data feature engineering
+
+* Machine Learning: linear and logistic regresssion, k-Nearest-Neighbors (knN), Naive Bayes, decision trees and random forest, clustering, Natural Language Processing (NLP), recommender sysstems (filterings)
+
 
 ### Technologies
 * Python
-* Pandas, jupyter
+* Numpy,Pandas, Scikit-learn
+* Jupyter
 
-## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
 
