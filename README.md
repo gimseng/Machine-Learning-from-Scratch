@@ -10,7 +10,7 @@ The purpose of this project is to build many (if not all) of machine learning to
 ### Methods Used
 * Data scrapping, data cleaning and data feature engineering
 
-* Machine Learning: linear and logistic regresssion, k-Nearest-Neighbors (knN), Naive Bayes, decision trees and random forest, clustering, Natural Language Processing (NLP), recommender sysstems (filterings)
+* Machine Learning: linear and logistic regresssion, k-Nearest-Neighbors (kNN), Naive Bayes, decision trees and random forest, clustering, Natural Language Processing (NLP), recommender sysstems (filterings)
 
 
 ### Technologies
