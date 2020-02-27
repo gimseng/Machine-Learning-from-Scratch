@@ -1,5 +1,5 @@
 import random, math
-
+import matplotlib.pyplot as plt
 
 def sum_of_squares(v):
     return sum(v_i*v_i for v_i in v)
@@ -96,6 +96,8 @@ def in_random_order(data):
     for i in indexes:
         yield data[i]
     
+
+
 def minimize_stochastic(target_fn, gradient_fn, x,y , theta_0, alpha=0.01):
 
     data=zip(x,y)
@@ -119,4 +121,12 @@ def minimize_stochastic(target_fn, gradient_fn, x,y , theta_0, alpha=0.01):
             gradient_i = gradient_fn(x_i,y_i,theta)
             theta=vector_sub(theta,scalar_multiply(alpha,gradient_i))
 
+#x_test=[i/100.0 for i in range(100)]
+#y_test = [(1/5.0)*random.random()+(i/100.0)**2 for i in range(100)]
 
+#plt.plot(x_test,y_test)
+#plt.show()
+#def test_fn(x,y,theta):
+#    return sum((y-theta x)**2 for x,y in zip(x,y))
+
+#def minimize_stochastic(target_fn, gradient_fn, x_test, y_test, theta_0, alpha=0.01):
