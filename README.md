@@ -10,7 +10,7 @@ The purpose of this project is to build many (if not all) of machine learning to
 ### Methods Used
 * Data scrapping, data cleaning and data feature engineering
 
-* Machine Learning: linear and logistic regresssion, k-Nearest-Neighbors (knN), Naive Bayes, decision trees and random forest, clustering, Natural Language Processing (NLP), recommender sysstems (filterings)
+* Machine Learning: linear and logistic regresssion, k-Nearest-Neighbors (kNN), Naive Bayes, decision trees and random forest, clustering, Natural Language Processing (NLP), recommender systems (filterings)
 
 
 ### Technologies
@@ -19,8 +19,11 @@ The purpose of this project is to build many (if not all) of machine learning to
 * Jupyter
 
 ### Outline
-## Chapter 1: Introduction. Some examples to get started
-## Chapter 2: Python Crash Course. I didn't put anything here since they are standard Python materials.
-## Chapter 3: Visualizing Data
+* Chapter 1: Introduction. Some examples to get started
+* Chapter 2: Python Crash Course. I didn't put anything here since they are standard Python materials.
+* Chapter 3: Visualizing Data
+* Chapter 4: Linear Algebra
+* Chapter 5: Statistics
+* Chapter 6: Probability
 
 
