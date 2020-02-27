@@ -105,3 +105,6 @@ for salary, tenure in salaries_and_tenure:
     #print(tenure, bucket)
     salary_by_bucket[bucket].append(salary)
 print (salary_by_bucket)
+
+new_list=["a","b","b","a","c","a","c","abc"]
+print (Counter(new_list))
