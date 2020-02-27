@@ -19,11 +19,11 @@ The purpose of this project is to build many (if not all) of machine learning to
 * Jupyter
 
 ### Outline
-## Chapter 1: Introduction. Some examples to get started
-## Chapter 2: Python Crash Course. I didn't put anything here since they are standard Python materials.
-## Chapter 3: Visualizing Data
-## Chapter 4: Linear Algebra
-## Chapter 5: Statistics
-## Chapter 6: Probability
+* Chapter 1: Introduction. Some examples to get started
+* Chapter 2: Python Crash Course. I didn't put anything here since they are standard Python materials.
+* Chapter 3: Visualizing Data
+* Chapter 4: Linear Algebra
+* Chapter 5: Statistics
+* Chapter 6: Probability
 
 
