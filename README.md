@@ -18,12 +18,30 @@ The purpose of this project is to build many (if not all) of machine learning to
 * Numpy,Pandas, Scikit-learn
 * Jupyter
 
-### Outline
+### Outline [Tentatively based on Grus' book]
 * Chapter 1: Introduction. Some examples to get started
 * Chapter 2: Python Crash Course. I didn't put anything here since they are standard Python materials.
 * Chapter 3: Visualizing Data
 * Chapter 4: Linear Algebra
 * Chapter 5: Statistics
 * Chapter 6: Probability
+* Chapter 7: Hypothesis and Inference
+* Chapter 8: Gradient Descent
+* Chapter 9: Getting Data
+* Chapter 10: Working with Data
+* Chapter 11: Machine Learning
+* Chapter 12: k-Nearest Neighbors
+* Chapter 13: Naive Bayes
+* Chapter 14: Simple Linear Regression
+* Chapter 15: Multiple Regression
+* Chapter 16: Logistic Regression
+* Chapter 17: Decision Tree
+* Chapter 18: Neural Networks
+* Chapter 19: Clustering
+* Chapter 20: Natural Language Processing
+* Chapter 21: Neutwork Analytic
+* Chapter 22: Recommender System
+* Chapter 23: Databases and SQL
+* Chapter 24: MapReduce
 
 
