@@ -45,3 +45,9 @@ The purpose of this project is to build many (if not all) of machine learning to
 * Chapter 24: MapReduce
 
 
+### References
+1. Data Science from Scratch (Grus)
+2. Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow (G&#233;ron)
+3. Deep Learning with Python (Chollet)
+ 
+
