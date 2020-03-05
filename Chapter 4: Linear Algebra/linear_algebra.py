@@ -8,8 +8,7 @@ def vector_add(v1,v2):
     return [v1_i+v2_i for v1_i,v2_i in zip(v1,v2)]    
 
 
-def vector_sub(v1, v2):
-    return [v1_i-v2_i for v1_i, v2_i in zip(v1, v2)]
+
 
 def vector_sum_all(v):
     res_vec=v[0]
@@ -30,12 +29,16 @@ def vec_mean(v):
 def dot(v1,v2):
     return sum(v1_i*v2_i for  v1_i,v2_i in zip(v1,v2))
 
-def norm_sq(v):
-    return dot(v,v)
-
 
 def norm(v):
     return math.sqrt(norm_sq(v))
+
+
+def vector_sub(v1, v2):
+    return [v1_i-v2_i for v1_i, v2_i in zip(v1, v2)]
+
+def norm_sq(v):
+    return dot(v,v)
 
 
 def sq_distance(v1,v2):
